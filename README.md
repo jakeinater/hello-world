@@ -1,2 +1,4 @@
 # hello-world
-this is my multifaceted discrete application forged to address the vessel which contains our existence through multilevel interfacing between several meta materials and multiplexed networks
+This is my multifaceted discrete application designed to address the vessel which contains our existence through multilevel interfacing between several meta materials and multiplexed networks
+
+Jake here.
